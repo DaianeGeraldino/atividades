@@ -1,0 +1,34 @@
+#name{
+    color: brown;
+    text-align: center;
+}
+
+#centralizar {
+    text-align: center;
+}
+
+li {
+    background-color: grey;
+}
+
+li:hover{
+    transition:  1.5s;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+.azul {
+    background-color: cyan;
+}
+
+.minhadiv{
+    border: 2px dashed black;
+    background-color: gray;
+    align-items: center;
+}
