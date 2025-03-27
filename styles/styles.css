@@ -20,6 +20,10 @@ li {
     text-align: center;
 }
 
+.titulo {
+    background-color: lightblue;
+}
+
 li:hover {
     background-color: darkgray;
     transition: background-color 1.5s ease-in-out;
